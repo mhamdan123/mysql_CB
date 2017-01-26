@@ -14,3 +14,5 @@ This cookbook makes installation and configuration of Mysql server
 - Chef 12.0 or later
 
 
+### Database root Password
+- P@s$w0rd
